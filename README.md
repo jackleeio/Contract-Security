@@ -36,7 +36,3 @@ A comprehensive collection of smart contract security vulnerabilities, real-worl
 ## Contributing
 
 Feel free to submit pull requests to add new vulnerabilities, update existing content, or improve documentation.
-
-## License
-
-This repository is licensed under the MIT License - see the LICENSE file for details.
